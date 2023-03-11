@@ -1,2 +1,2 @@
-email :
-gitID :
+email : frostjanna12@gmail.com2
+gitID : dayjack
